@@ -1,9 +1,0 @@
-Criar um repositório
-copiar url (code)
-abrir cmd
-git clone url
-Criar pastas Data, Notebooks, Scripts
-git add deixa estagio pre commit, salvando alteracoes
-git add .
-git commit -m "mensagem" - comita a atualização
-git push ( envia as alteracores para o github)
